@@ -2,7 +2,7 @@
 ## Title: |cff00ffff*|r |cfffff0f5动作栏|r
 ## Notes: |cffcaf7faActionbar addon from pretty stuff|r
 ## Notes-zhcn: |cffcaf7faTBCstar的动作栏插件|r
-## Version: 1.0.2
+## Version: 1.0.3
 ## Author: s0high
 ## SavedVariables: collapse_state
 
