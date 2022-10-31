@@ -1,19 +1,19 @@
 local addon = select(2,...);
 addon._dir = [[Interface\AddOns\pretty_actionbar\assets\]];
 addon.config = {
-	-- @desc: mainbar settings
+	-- @desc: 主栏设置
 	-- @param: number of scale
 	mainbars = {
-		scale_actionbar = 0.9,			--; mainbar scale.
+		scale_actionbar = 0.9,			--; 主栏比例。
 		scale_rightbar = 0.9,			--; multibar right scale (under minimap).
 		scale_leftbar = 0.9,			--; multibar left scale (under minimap).
 		scale_vehicle = 1,				--; vehicle artbar scale.
 	},
 	
 	micromenu = {
-	-- @desc: micromenu & bags bar
+	-- @desc: 微菜单和背包
 	-- @param: number, boolean
-		scale_menu = 1.4,				--; scale for micromenu.
+		scale_menu = 1.4,				--; 微菜单的比例。
 		scale_bags = 0.9,				--; scale for bags bar.
 		x_position = 0,					--; x offset (negative moves menu to left side).
 		y_position = -48,				--; y offset.
